@@ -117,6 +117,7 @@ export const AllComponents = [
   'Timeline',
   'TimelineItem',
   'Tooltip',
+  'Tour',
   'Transfer',
   'Tree',
   'TreeNode',
