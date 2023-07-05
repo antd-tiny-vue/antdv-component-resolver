@@ -100,6 +100,7 @@ export const AllComponents = [
   'StatisticCountdown',
   'Step',
   'Steps',
+  'StyleProvider',
   'SubMenu',
   'Switch',
   'TabPane',
