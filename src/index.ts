@@ -1,5 +1,5 @@
 import type { ComponentResolver } from 'unplugin-vue-components'
-import { AllComponents ,componentMap } from './all-components'
+import { AllComponents, componentMap } from './all-components'
 
 export default function (): ComponentResolver {
   return {
@@ -14,8 +14,8 @@ export default function (): ComponentResolver {
         }
       }else if(antName in componentMap){
         return {
-          name: antName,
-          as: componentMap[antName],
+          name: componentMap[antName],
+          as: name,
           from: 'ant-design-vue/es',
         }
       }

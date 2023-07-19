@@ -136,5 +136,5 @@ export const AllComponents = [
 ]
 
 export const componentMap:Record<string,any> = {
-  Compact:"ASpaceCompact",
+  SpaceCompact: "Compact",
 }
