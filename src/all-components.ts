@@ -134,3 +134,7 @@ export const AllComponents = [
   'Watermark',
   'WeekPicker',
 ]
+
+export const componentMap:Record<string,any> = {
+  Compact:"ASpaceCompact",
+}
