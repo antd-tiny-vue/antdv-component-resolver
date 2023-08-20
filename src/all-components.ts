@@ -74,7 +74,7 @@ export const AllComponents = [
   'Popconfirm',
   'Popover',
   'Progress',
-  'QRCode',
+  'Qrcode',
   'QuarterPicker',
   'Radio',
   'RadioButton',
