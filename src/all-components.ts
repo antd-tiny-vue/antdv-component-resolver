@@ -74,7 +74,6 @@ export const AllComponents = [
   'Popconfirm',
   'Popover',
   'Progress',
-  'Qrcode',
   'QuarterPicker',
   'Radio',
   'RadioButton',
@@ -137,4 +136,5 @@ export const AllComponents = [
 
 export const componentMap:Record<string,any> = {
   SpaceCompact: "Compact",
+  Qrcode: "QRCode",
 }
