@@ -42,6 +42,7 @@ export const AllComponents = [
   'Empty',
   'FloatButton',
   'FloatButtonGroup',
+  'Flex',
   'Form',
   'FormItem',
   'FormItemRest',
