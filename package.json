@@ -1,6 +1,6 @@
 {
   "name": "antdv-component-resolver",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "",
   "main": "dist/index.mjs",
   "type": "module",
@@ -22,7 +22,7 @@
   "author": "",
   "license": "MIT",
   "peerDependencies": {
-    "unplugin-vue-components": ">=^0.26.0"
+    "unplugin-vue-components": "^0.26.0"
   },
   "devDependencies": {
     "typescript": "^5.0.4",
